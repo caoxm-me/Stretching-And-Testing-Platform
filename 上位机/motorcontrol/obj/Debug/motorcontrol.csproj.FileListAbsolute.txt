@@ -1,0 +1,9 @@
+C:\Users\高原\Desktop\STM32C#\步进电机\界面\motorcontrol\motorcontrol\bin\Debug\motorcontrol.exe.config
+C:\Users\高原\Desktop\STM32C#\步进电机\界面\motorcontrol\motorcontrol\bin\Debug\motorcontrol.exe
+C:\Users\高原\Desktop\STM32C#\步进电机\界面\motorcontrol\motorcontrol\bin\Debug\motorcontrol.pdb
+C:\Users\高原\Desktop\STM32C#\步进电机\界面\motorcontrol\motorcontrol\obj\Debug\motorcontrol.Form1.resources
+C:\Users\高原\Desktop\STM32C#\步进电机\界面\motorcontrol\motorcontrol\obj\Debug\motorcontrol.Properties.Resources.resources
+C:\Users\高原\Desktop\STM32C#\步进电机\界面\motorcontrol\motorcontrol\obj\Debug\motorcontrol.csproj.GenerateResource.cache
+C:\Users\高原\Desktop\STM32C#\步进电机\界面\motorcontrol\motorcontrol\obj\Debug\motorcontrol.csproj.CoreCompileInputs.cache
+C:\Users\高原\Desktop\STM32C#\步进电机\界面\motorcontrol\motorcontrol\obj\Debug\motorcontrol.exe
+C:\Users\高原\Desktop\STM32C#\步进电机\界面\motorcontrol\motorcontrol\obj\Debug\motorcontrol.pdb
